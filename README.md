@@ -28,11 +28,3 @@ IMDB Dataset from kaggle
 - Train a Logistic Regression model to classify sentiments.  
 - Evaluate the model's performance using standard metrics.
 
----
-
-## Steps to Run the Project
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/username/project-name.git
-   cd project-name
