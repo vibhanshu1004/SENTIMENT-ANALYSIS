@@ -17,6 +17,9 @@ This project demonstrates the implementation of sentiment analysis on a dataset 
 
 ---
 
+## Dataset
+IMDB Dataset from kaggle
+
 ## Objectives
 - Perform sentiment analysis on a dataset of customer reviews.  
 - Use TF-IDF vectorization to convert textual data into numerical features.  
